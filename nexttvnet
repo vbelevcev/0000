@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1,ntv
+http://cdn.nexttvnet.ru/hlsl/1/ntv/index.m3u8
+#EXTINF:-1,zvezda
+http://cdn.nexttvnet.ru/hlsl/1/zvezda/index.m3u8
+#EXTINF:-1,tvc
+http://cdn.nexttvnet.ru/hlsl/1/tvc/index.m3u8
+#EXTINF:-1,sts
+http://cdn.nexttvnet.ru/hlsl/1/sts/index.m3u8
+#EXTINF:-1,vremya
+http://cdn.nexttvnet.ru/hlsl/1/vremya/index.m3u8
+#EXTINF:-1,tnt
+http://cdn.nexttvnet.ru/hlsl/1/tnt/index.m3u8
+#EXTINF:-1,rbk
+http://cdn.nexttvnet.ru/hlsl/1/rbk/index.m3u8
+#EXTINF:-1,arirang HD
+http://cdn.nexttvnet.ru/hlsl/1/arirang/index.m3u8
+#EXTINF:-1,telecafe
+http://cdn.nexttvnet.ru/hlsl/1/telecafe/index.m3u8
+#EXTINF:-1,football
+http://cdn.nexttvnet.ru/hlsl/1/football/index.m3u8
+#EXTINF:-1,khl
+http://cdn.nexttvnet.ru/hlsl/1/khl/index.m3u8
+#EXTINF:-1,o
+http://cdn.nexttvnet.ru/hlsl/1/o/index.m3u8
+#EXTINF:-1,kinoklub HD
+http://cdn.nexttvnet.ru/hlsl/1/kinoklub/index.m3u8
+#EXTINF:-1,karusel
+http://cdn.nexttvnet.ru/hlsl/1/karusel/index.m3u8
+#EXTINF:-1,detskiy
+http://cdn.nexttvnet.ru/hlsl/1/detskiy/index.m3u8
+#EXTINF:-1,tiji
+http://cdn.nexttvnet.ru/hlsl/1/tiji/index.m3u8
+#EXTINF:-1,jimjam
+http://cdn.nexttvnet.ru/hlsl/1/jimjam/index.m3u8
+#EXTINF:-1,2x2
+http://cdn.nexttvnet.ru/hlsl/1/2x2/index.m3u8
+#EXTINF:-1,tnt4
+http://cdn.nexttvnet.ru/hlsl/1/tnt4/index.m3u8
+#EXTINF:-1,zoopark
+http://cdn.nexttvnet.ru/hlsl/1/zoopark/index.m3u8
+#EXTINF:-1,oruzhie
+http://cdn.nexttvnet.ru/hlsl/1/oruzhie/index.m3u8
+#EXTINF:-1,domashniy
+http://cdn.nexttvnet.ru/hlsl/1/domashniy/index.m3u8
+#EXTINF:-1,rentv
+http://cdn.nexttvnet.ru/hlsl/1/rentv/index.m3u8
+#EXTINF:-1,perviy
+http://cdn.nexttvnet.ru/hlsl/1/perviy/index.m3u8
+#EXTINF:-1,bober
+http://cdn.nexttvnet.ru/hlsl/1/bober/index.m3u8
+#EXTINF:-1,fashiontv
+http://cdn.nexttvnet.ru/hlsl/1/fashiontv/index.m3u8
+#EXTINF:-1,zhara
+http://cdn.nexttvnet.ru/hlsl/1/zhara/index.m3u8
+#EXTINF:-1,spastv
+http://cdn.nexttvnet.ru/hlsl/1/spastv/index.m3u8
+#EXTINF:-1,premiera HD
+http://cdn.nexttvnet.ru/hlsl/1/premiera/index.m3u8
+#EXTINF:-1,euronews
+http://cdn.nexttvnet.ru/hlsl/1/euronews/index.m3u8
+#EXTINF:-1,radostmoya HD
+http://cdn.nexttvnet.ru/hlsl/1/radostmoya/index.m3u8
+#EXTINF:-1,muztv
+http://cdn.nexttvnet.ru/hlsl/1/muztv/index.m3u8
+#EXTINF:-1,natgeohd HD
+http://cdn.nexttvnet.ru/hlsl/1/natgeohd/index.m3u8
+#EXTINF:-1,eurokino
+http://cdn.nexttvnet.ru/hlsl/1/eurokino/index.m3u8
+#EXTINF:-1,peretz
+http://cdn.nexttvnet.ru/hlsl/1/peretz/index.m3u8
+#EXTINF:-1,pyatnitsa
+http://cdn.nexttvnet.ru/hlsl/1/pyatnitsa/index.m3u8
+#EXTINF:-1,amediapremiumhd HD
+http://cdn.nexttvnet.ru/hlsl/1/amediapremiumhd/index.m3u8
+#EXTINF:-1,otr
+http://cdn.nexttvnet.ru/hlsl/1/otr/index.m3u8
+#EXTINF:-1,mir
+http://cdn.nexttvnet.ru/hlsl/1/mir/index.m3u8
+#EXTINF:-1,tochkatv HD
+http://cdn.nexttvnet.ru/hlsl/1/tochkatv/index.m3u8
+#EXTINF:-1,bigasia
+http://cdn.nexttvnet.ru/hlsl/1/bigasia/index.m3u8
+#EXTINF:-1,kinohit HD
+http://cdn.nexttvnet.ru/hlsl/1/kinohit/index.m3u8
+#EXTINF:-1,autoplus HD
+http://cdn.nexttvnet.ru/hlsl/1/autoplus/index.m3u8
+#EXTINF:-1,sts_love
+http://cdn.nexttvnet.ru/hlsl/1/sts_love/index.m3u8
+#EXTINF:-1,moskva_24
+http://cdn.nexttvnet.ru/hlsl/1/moskva_24/index.m3u8
+#EXTINF:-1,rt_doc HD
+http://cdn.nexttvnet.ru/hlsl/1/rt_doc/index.m3u8
+#EXTINF:-1,russia_today_hd HD
+http://cdn.nexttvnet.ru/hlsl/1/russia_today_hd/index.m3u8
+#EXTINF:-1,amedia_1
+http://cdn.nexttvnet.ru/hlsl/1/amedia_1/index.m3u8
+#EXTINF:-1,fox_life_hd HD
+http://cdn.nexttvnet.ru/hlsl/1/fox_life_hd/index.m3u8
+#EXTINF:-1,nashe_novoe_kino HD
+http://cdn.nexttvnet.ru/hlsl/1/nashe_novoe_kino/index.m3u8
+#EXTINF:-1,nashe_kino HD
+http://cdn.nexttvnet.ru/hlsl/1/nashe_kino/index.m3u8
+#EXTINF:-1,nash_futbol HD
+http://cdn.nexttvnet.ru/hlsl/1/nash_futbol/index.m3u8
+#EXTINF:-1,dom_kino
+http://cdn.nexttvnet.ru/hlsl/1/dom_kino/index.m3u8
+#EXTINF:-1,rossiya_1
+http://cdn.nexttvnet.ru/hlsl/1/rossiya_1/index.m3u8
+#EXTINF:-1,Private HD
+http://cdn.nexttvnet.ru/hlsl/1/Private/index.m3u8
+#EXTINF:-1,Avto24 HD
+http://cdn.nexttvnet.ru/hlsl/1/Avto24/index.m3u8
+#EXTINF:-1,Kinomiks HD
+http://cdn.nexttvnet.ru/hlsl/1/Kinomiks/index.m3u8
+#EXTINF:-1,Kinosvidanie HD
+http://cdn.nexttvnet.ru/hlsl/1/Kinosvidanie/index.m3u8
+#EXTINF:-1,Kinokomediya HD
+http://cdn.nexttvnet.ru/hlsl/1/Kinokomediya/index.m3u8
+#EXTINF:-1,Kinosemya HD
+http://cdn.nexttvnet.ru/hlsl/1/Kinosemya/index.m3u8
+#EXTINF:-1,VmesteRF HD
+http://cdn.nexttvnet.ru/hlsl/1/VmesteRF/index.m3u8
+#EXTINF:-1,TV3
+http://cdn.nexttvnet.ru/hlsl/1/TV3/index.m3u8
+#EXTINF:-1,AvtoPlus HD
+http://cdn.nexttvnet.ru/hlsl/1/AvtoPlus/index.m3u8
+#EXTINF:-1,Match_Boets HD
+http://cdn.nexttvnet.ru/hlsl/1/Match_Boets/index.m3u8
+#EXTINF:-1,KinomiksHD
+http://cdn.nexttvnet.ru/hlsl/1/KinomiksHD/index.m3u8
+#EXTINF:-1,KinosemyaHD
+http://cdn.nexttvnet.ru/hlsl/1/KinosemyaHD/index.m3u8
+#EXTINF:-1,KinosvidanieHD
+http://cdn.nexttvnet.ru/hlsl/1/KinosvidanieHD/index.m3u8
+#EXTINF:-1,PervijAvtomobilnyi HD
+http://cdn.nexttvnet.ru/hlsl/1/PervijAvtomobilnyi/index.m3u8
+#EXTINF:-1,PervyiAvtomobilnyiHD
+http://cdn.nexttvnet.ru/hlsl/1/PervyiAvtomobilnyiHD/index.m3u8
+#EXTINF:-1,AvtoPlyus HD
+http://cdn.nexttvnet.ru/hlsl/1/AvtoPlyus/index.m3u8
+#EXTINF:-1,Rodnoe_kino HD
+http://cdn.nexttvnet.ru/hlsl/1/Rodnoe_kino/index.m3u8
+#EXTINF:-1,Avto_Plus HD
+http://cdn.nexttvnet.ru/hlsl/1/Avto_Plus/index.m3u8
+#EXTINF:-1,Avto_Pljus HD
+http://cdn.nexttvnet.ru/hlsl/1/Avto_Pljus/index.m3u8
+#EXTINF:-1,Rossiya_24
+http://cdn.nexttvnet.ru/hlsl/1/Rossiya_24/index.m3u8
+#EXTINF:-1,Kinopremera_HD
+http://cdn.nexttvnet.ru/hlsl/1/Kinopremera_HD/index.m3u8
+#EXTINF:-1,Match_Arena_HD
+http://cdn.nexttvnet.ru/hlsl/1/Match_Arena_HD/index.m3u8
+#EXTINF:-1,Avto24_HD
+http://cdn.nexttvnet.ru/hlsl/1/Avto24_HD/index.m3u8
+#EXTINF:-1,Match_Igra_HD
+http://cdn.nexttvnet.ru/hlsl/1/Match_Igra_HD/index.m3u8
+#EXTINF:-1,Match_Premer_HD
+http://cdn.nexttvnet.ru/hlsl/1/Match_Premer_HD/index.m3u8
+#EXTINF:-1,Europa_Plus
+http://cdn.nexttvnet.ru/hlsl/1/Europa_Plus/index.m3u8
+#EXTINF:-1,Setanta_Sport_Plus_HD
+http://cdn.nexttvnet.ru/hlsl/1/Setanta_Sport_Plus_HD/index.m3u8
+#EXTINF:-1,Avto_24 HD
+http://cdn.nexttvnet.ru/hlsl/1/Avto_24/index.m3u8
+#EXTINF:-1,Match_Igra HD
+http://cdn.nexttvnet.ru/hlsl/1/Match_Igra/index.m3u8
+#EXTINF:-1,Match_Futbol_1 HD
+http://cdn.nexttvnet.ru/hlsl/1/Match_Futbol_1/index.m3u8
+#EXTINF:-1,Match_Futbol_2 HD
+http://cdn.nexttvnet.ru/hlsl/1/Match_Futbol_2/index.m3u8
+#EXTINF:-1,Match_Futbol_3 HD
+http://cdn.nexttvnet.ru/hlsl/1/Match_Futbol_3/index.m3u8
+#EXTINF:-1,Match_Futbol_1_HD
+http://cdn.nexttvnet.ru/hlsl/1/Match_Futbol_1_HD/index.m3u8
+#EXTINF:-1,Match_Futbol_2_HD
+http://cdn.nexttvnet.ru/hlsl/1/Match_Futbol_2_HD/index.m3u8
+#EXTINF:-1,Match_Futbol_3_HD
+http://cdn.nexttvnet.ru/hlsl/1/Match_Futbol_3_HD/index.m3u8
+#EXTINF:-1,sport_1_hd HD
+http://cdn.nexttvnet.ru/hlsl/1/sport_1_hd/index.m3u8
